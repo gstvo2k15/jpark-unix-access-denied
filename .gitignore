@@ -8,6 +8,7 @@ __pycache__/
 *.dist-info/
 
 # 🚀 Virtual Environment (venv)
+nedrytest/
 venv/
 .env/
 .venv/
