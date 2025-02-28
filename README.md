@@ -26,7 +26,7 @@ sudo apt install -yqq python3-tk python3.10-venv
 
 python3.10 -m venv nedrytest
 source nedrytest/bin/activate
-pip install pillow pygame
+pip install -r requirements.txt
 ```
 **Note**: Only tested in Ubuntu/Debian distros.
 
