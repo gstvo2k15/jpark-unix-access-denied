@@ -40,3 +40,15 @@ python terminal.py
 `
 deactivate
 `
+
+### Wintel usage
+
+    python.exe -m venv wintel
+
+    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+    .\wintel\Scripts\Activate.ps1
+
+    pip install -r requirements.txt
+
+    python terminal.py

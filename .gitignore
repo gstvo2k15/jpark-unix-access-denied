@@ -9,6 +9,7 @@ __pycache__/
 
 # 🚀 Virtual Environment (venv)
 nedrytest/
+wintel/
 venv/
 .env/
 .venv/
